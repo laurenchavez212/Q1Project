@@ -1,0 +1,71 @@
+body {
+  background-color: white;
+  background-image: url('https://cdn.pixabay.com/photo/2013/08/25/14/39/wall-175684_1280.jpg');
+  background-size: cover;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+.urbanLogo {
+  height: 275px;
+  width: 600px;
+  padding-left: 50px;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 350px;
+  height: 30px;
+  border: 2px dotted black;
+  margin-bottom: 15px;
+}
+
+button {
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.defBox {
+  background-color: silver;
+  height: 100%;
+  width: 80%;
+  border-radius: 5px;
+  left: 10%;
+  right: 10%;
+  text-align: left;
+  margin-bottom: 10%;
+  padding-top: 10px;
+  opacity: .85;
+  position: relative;
+
+}
+
+.defs {
+  background-color: rgb(242,242,242);
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+p {
+  margin-top: 8px;
+  font-weight: lighter;
+}
+
+a, h3, .red {
+  color: rgb(191,57,50);
+}
+
+.audioBtn {
+  height: 10px;
+  width: 50px;
+  border-radius: 5px;
+  background-color: silver;
+  color: rgb(191,57,50);
+}
